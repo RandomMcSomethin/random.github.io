@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
+
+There is nothing of note here right now.
 
 You can use the [editor on GitHub](https://github.com/RandomMcSomethin/random.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
